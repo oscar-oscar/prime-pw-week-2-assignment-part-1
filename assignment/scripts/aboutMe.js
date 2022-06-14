@@ -10,7 +10,7 @@ let fullName='Oscar Carbajal';
 // 4 - Console log the value of `fullName`
 console.log('the value of fullName',firstName, lastName);
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
-
+let luckyNumber='7';
 // 6 - Console log this sentence, adding in the variables you created above: 
 // 'My name is (full name), and I think (lucky number) is a winner!'.
 // Refer back to the videos if you need help with this one.
