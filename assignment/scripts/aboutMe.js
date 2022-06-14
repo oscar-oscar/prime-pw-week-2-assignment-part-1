@@ -1,3 +1,4 @@
+console.log('aboutMe');
 // REQUIRED FEATURES:
 // 1 - Create a variable called `firstName` and assign it the value of your first name
 
