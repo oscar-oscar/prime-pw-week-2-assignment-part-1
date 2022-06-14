@@ -8,7 +8,7 @@ let lastName='Carbajal';
 // (remember, you already have variables for this, can you use those?)
 let fullName='Oscar Carbajal';
 // 4 - Console log the value of `fullName`
-
+console.log()
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
 
 // 6 - Console log this sentence, adding in the variables you created above: 
