@@ -11,11 +11,12 @@ let fullName='Oscar Carbajal';
 console.log('the value of fullName',firstName, lastName);
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
 let luckyNumber='7';
+console.log('the value of luckyNumber is:' , luckyNumber);
 // 6 - Console log this sentence, adding in the variables you created above: 
 // 'My name is (full name), and I think (lucky number) is a winner!'.
 // Refer back to the videos if you need help with this one.
-let sentence='My name is ' + fullName 'and I think ' + luckyNumber 'is a winner!'
-console.log( sentence );
+
+
 // 7 - Create a variable named `adventurous` and set it to a boolean value (true or false)
 
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
