@@ -51,9 +51,19 @@ if(luckyNumber =='2'&& adventurous){
 
 // 15 - Write a conditional that console logs "I can have more pets!" 
 //if the value of `pets` is less than the value of `allowedPets`,
+
 // console logs "I have enough pets" if the value of `pets` is equal to the value of `allowedPets`,
 // and console logs "Oh no, I have too many pets!"
 // if the value of `pets` is greater than the value of `allowedPets`.
+
+if(pets <2){
+    console.log('I can have more pets');
+}
+
+else if(pets =2){
+    console.log('I have enough pets');
+}
+
 
 // STRETCH GOALS:
 
