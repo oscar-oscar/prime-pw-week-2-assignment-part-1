@@ -6,9 +6,9 @@ let firstName='Oscar';
 let lastName='Carbajal';
 // 3 - Create a third variable called `fullName`, assign it the value of your first and last name
 // (remember, you already have variables for this, can you use those?)
-let fullName='Oscar Carbajal';
+let fullName=' Oscar ' + ' Carbajal ';
 // 4 - Console log the value of `fullName`
-console.log('the value of fullName',firstName, lastName);
+console.log('the value of fullName',fullName);
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
 let luckyNumber='7';
 console.log('the value of luckyNumber is:' , luckyNumber);
@@ -36,14 +36,19 @@ const allowedPets=2;
 
 // 13 - Create a conditional: if adventurous is true, console log "Adventures are great!", 
 // if it's not true, console log "How about we stay home?"
-console.log('Adventures are great!');
-
+if(adventurous == true);{
+    console.log('Adventures are great!');
+}
 
 // 14 - Create a compound conditional: if luckyNumber is 2 and adventurous is true,
 // console log "Roll the dice!"
-if(luckyNumber =='2'&& adventurous){
+if( '7' == '2'&& adventurous){
     console.log('Roll the dice!');
 }
+
+//PREVIOUS CODE if(luckyNumber =='2'&& adventurous){
+    //console.log('Roll the dice!');
+//}
    
     
 
